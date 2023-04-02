@@ -8,7 +8,7 @@
     "start": "node ./backend/server.js",
     "dev": "nodemon ./backend/server.js"
   },
-  "author": "Masum Chowdhury",
+  "author": "Bapi Shaikh",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.16"
